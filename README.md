@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r-jadav
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Automation Testing using Playwright
+- 🌱 I’m currently working in Automation Testing using Playwright
 - 📫 You can reach me on linkedin /in/ravijadav/
 
 <!---
